@@ -126,9 +126,10 @@ h4 {
 .list-inline li:after{content:'|'; margin:0 10px;}
 .list-inline li:last-child:after {content: '';}
 
-message {
-	align-content: left;
-}
+.grecaptcha-badge {
+   display: none;
+ }
+
 
 @media only screen and (max-width: 575px) {
 	img {
