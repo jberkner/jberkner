@@ -59,10 +59,9 @@ img {
 .nav-link {
 	color: #333;
 }
-
+.navbar-brand:hover,
 .nav-link:hover {
-	color: #000;
-	font-weight: 800;
+	color: #70AED6;
 }
 
 .navbar-default{
